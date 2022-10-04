@@ -8,6 +8,9 @@ a{
   color: unset;
   background-color: #fff;
 }
+body{
+  font-family: sans-serif;
+}
 li {
   font-size: 30px;
   margin: 0;
